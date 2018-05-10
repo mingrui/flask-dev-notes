@@ -13,6 +13,10 @@ https://github.com/tmux-plugins/tpm
 
 https://github.com/tmux-plugins/tmux-resurrect
 
+setup ssh on your ec2 instance:
+
+https://help.github.com/articles/connecting-to-github-with-ssh/
+
 ## tutorials
 
 simple flask official tutorial:
