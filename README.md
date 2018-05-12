@@ -19,7 +19,7 @@ https://help.github.com/articles/connecting-to-github-with-ssh/
 
 ## Deploy
 
-
+https://pythonprogramming.net/deploy-vps-dash-data-visualization/
 
 ## Tutorials
 
@@ -34,3 +34,5 @@ https://stackoverflow.com/questions/25319690/how-do-i-run-a-flask-app-in-gunicor
 plotly dash deployment tutorial:
 
 https://dash.plot.ly/deployment
+
+
