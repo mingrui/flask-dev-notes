@@ -1,7 +1,7 @@
 # flask-dev-notes
 notes on developing my first flask app
 
-## tools
+## Tools
 
 how to transfer file to and get file from ec2:
 
@@ -17,7 +17,11 @@ setup ssh on your ec2 instance:
 
 https://help.github.com/articles/connecting-to-github-with-ssh/
 
-## tutorials
+## Deploy
+
+
+
+## Tutorials
 
 simple flask official tutorial:
 
