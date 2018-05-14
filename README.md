@@ -37,3 +37,7 @@ https://dash.plot.ly/deployment
 
 
 https://www.elastic.co/products/logstash
+
+## Weird Problems:
+
+https://askubuntu.com/questions/386281/error-while-loading-shared-libraries-libglu-so-1
