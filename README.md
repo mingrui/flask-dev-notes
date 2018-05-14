@@ -43,3 +43,10 @@ https://www.elastic.co/products/logstash
 https://askubuntu.com/questions/386281/error-while-loading-shared-libraries-libglu-so-1
 
 matlab return multiple values to python: https://www.mathworks.com/matlabcentral/answers/323441-return-multiple-variables-from-matlab-to-python
+
+```
+# matlab python module
+import do_pred
+# matlab python module must be imported before matlab
+import matlab
+```
