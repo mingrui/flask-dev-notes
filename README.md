@@ -39,8 +39,9 @@ plotly dash deployment tutorial:
 
 https://dash.plot.ly/deployment
 
-
 https://www.elastic.co/products/logstash
+
+flask-caching: https://dash.plot.ly/performance
 
 ## Weird Problems:
 
