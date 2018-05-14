@@ -59,3 +59,6 @@ https://www.mathworks.com/help/matlab/matlab_external/matlab-arrays-as-python-va
 
 before building redis: 
 https://askubuntu.com/questions/192645/make-command-not-found
+
+nginx file size limit
+https://blog.csdn.net/rgc_520_zyl/article/details/78946992
