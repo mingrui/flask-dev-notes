@@ -17,6 +17,10 @@ setup ssh on your ec2 instance:
 
 https://help.github.com/articles/connecting-to-github-with-ssh/
 
+redis to save pandas dataframe:
+
+https://redis.io/topics/quickstart
+
 ## Deploy
 
 https://pythonprogramming.net/deploy-vps-dash-data-visualization/
@@ -52,3 +56,6 @@ import matlab
 ```
 
 https://www.mathworks.com/help/matlab/matlab_external/matlab-arrays-as-python-variables.html
+
+before building redis: 
+https://askubuntu.com/questions/192645/make-command-not-found
