@@ -50,3 +50,5 @@ import do_pred
 # matlab python module must be imported before matlab
 import matlab
 ```
+
+https://www.mathworks.com/help/matlab/matlab_external/matlab-arrays-as-python-variables.html
