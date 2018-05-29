@@ -43,6 +43,8 @@ https://www.elastic.co/products/logstash
 
 flask-caching: https://dash.plot.ly/performance
 
+https://www.r-graph-gallery.com/121-manage-colors-with-plotly/
+
 ## Weird Problems:
 
 https://askubuntu.com/questions/386281/error-while-loading-shared-libraries-libglu-so-1
